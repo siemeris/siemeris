@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ## 📊 My Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siemeris)](https://github.com/siemeris/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siemeris&layout=compact)](https://github.com/siemeris)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siemeris&label=Profile%20views&color=0e75b6&style=flat" alt="siemeris" /> </p>
+
 
 ## 🧰 Languages and Tools:
 <p align="center"> 
