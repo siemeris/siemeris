@@ -1,6 +1,6 @@
 # 👋 Hello World! 
 
-<p>My name is Isabel, I'm a proactive front-end developer :woman_technologist: My goal is to create software that will make life easier for all :earth_americas: </p>
+<p>My name is Isabel, I'm a proactive full-stack developer :woman_technologist: My goal is to create software that will make life easier for all :earth_americas: </p>
 
 <!--
 **siemeris/siemeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
