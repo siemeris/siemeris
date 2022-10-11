@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 ### I'm currently learning:
 <p align="center"> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+<!--
 <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="postgresql" width="40" height="40"/> </a> 
+-->
  
 </p>
 
