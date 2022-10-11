@@ -2,6 +2,12 @@
 
 <p>My name is Isabel, I'm a proactive full-stack developer :woman_technologist: My goal is to create software that will make life easier for all :earth_americas: </p>
 
+- 🔭 I’m currently working on projects with Javascript, ReactJs, Python and Flask.
+- 🌱 I’m currently learning Java. (I know, it's not an easy task 😅)
+- 👯 I’m looking to collaborate on any full-stack software development project and further develop my skills and knowledge.
+- 🤔 I’m looking for help with DevOps.
+- 💬 Ask me about computational logic. 
+
 <!--
 **siemeris/siemeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -45,3 +51,7 @@ Here are some ideas to get you started:
  
 </p>
 
+## 📫 How to reach me:
+[![HTML](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelsierramerino/)
+[![HTML](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siemeris@gmail.com)
+[![HTML](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://isabel-sierra.netlify.app/)
