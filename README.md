@@ -3,7 +3,7 @@
 <p>My name is Isabel, I'm a proactive full-stack developer :woman_technologist: My goal is to create software that will make life easier for all :earth_americas: </p>
 
 - 🔭 I’m currently working on projects with Javascript, ReactJs, Python and Flask.
-- 🌱 I’m currently learning Java. (I know, it's not an easy task 😅)
+- 🌱 I’m currently learning about AWS.
 - 👯 I’m looking to collaborate on any full-stack software development project and further develop my skills and knowledge.
 - 🤔 I’m looking for help with DevOps.
 - 💬 Ask me about computational logic. 
@@ -57,10 +57,8 @@ Here are some ideas to get you started:
 
 ### I'm currently learning:
 <p align="center"> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<!--
-<a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="postgresql" width="40" height="40"/> </a> 
--->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/> </a> 
+<a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
  
 </p>
 
