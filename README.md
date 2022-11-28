@@ -3,7 +3,7 @@
 <p>My name is Isabel, I'm a proactive full-stack developer :woman_technologist: My goal is to create software that will make life easier for all :earth_americas: </p>
 
 - 🔭 I’m currently working on projects with Javascript, ReactJs, Python and Flask.
-- 🌱 I’m currently learning about AWS.
+- 🌱 I’m currently learning Java and AWS.
 - 👯 I’m looking to collaborate on any full-stack software development project and further develop my skills and knowledge.
 - 🤔 I’m looking for help with DevOps.
 - 💬 Ask me about computational logic. 
