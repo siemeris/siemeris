@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ### I'm currently learning:
 <p align="center"> 
 <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/> </a> 
-<a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="50" height="50" /></a>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="50" height="50" /></a>
 
 </p>
 
