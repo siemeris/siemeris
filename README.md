@@ -3,7 +3,7 @@
 <p>My name is Isabel, I'm a proactive full-stack developer :woman_technologist: My goal is to create software that will make life easier for all :earth_americas: </p>
 
 - 🔭 I’m currently working on projects with Javascript, ReactJs, Python and Flask.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning AWS Cloud Practitioner.
 - 👯 I’m looking to collaborate on any full-stack software development project and further develop my skills and knowledge.
 - 💬 Ask me about computational logic. 
 
@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 My Stats:
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siemeris)](https://github.com/siemeris/github-readme-stats)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siemeris&layout=compact)](https://github.com/siemeris)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siemeris&label=Profile%20views&color=0e75b6&style=flat" alt="siemeris" /> </p>
 
